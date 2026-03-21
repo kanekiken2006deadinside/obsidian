@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hallo.md",
+                "file": "Замена рабских таблов от мориарти.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hallo"
+              "title": "Замена рабских таблов от мориарти"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "0452e36cadddd2cc",
   "lastOpenFiles": [
+    "пар.md",
+    "Замена рабских таблов от мориарти.md",
     "2026-03-18.md",
-    "Hallo.md",
     "Untitled",
     "README.md"
   ]
