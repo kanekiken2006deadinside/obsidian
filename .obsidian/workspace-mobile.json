@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-18.md",
+                "file": "2026-03-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18"
+              "title": "2026-03-23"
             }
           }
         ],
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hallo.md",
+            "file": "2026-03-23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,9 +200,11 @@
   },
   "active": "1b8514002ed7c454",
   "lastOpenFiles": [
+    "2026-03-18.md",
+    "2026-03-23.md",
+    "/2026-03-23.md",
     "28-02-26.md",
     "пар.md",
-    "2026-03-18.md",
     "README.md",
     "Замена рабских таблов от мориарти.md",
     "Untitled"
