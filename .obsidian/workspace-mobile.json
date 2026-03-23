@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "Замена рабских таблов от мориарти"
             }
+          },
+          {
+            "id": "1b8514002ed7c454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "пар.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "пар"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,12 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0110c0e6a5cf2d9d",
+  "active": "1b8514002ed7c454",
   "lastOpenFiles": [
-    "Замена рабских таблов от мориарти.md",
+    "28-02-26.md",
     "пар.md",
     "2026-03-18.md",
-    "Untitled",
-    "README.md"
+    "README.md",
+    "Замена рабских таблов от мориарти.md",
+    "Untitled"
   ]
 }
