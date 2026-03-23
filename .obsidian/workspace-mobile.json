@@ -35,8 +35,7 @@
               "title": "Замена рабских таблов от мориарти"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0452e36cadddd2cc",
+  "active": "0110c0e6a5cf2d9d",
   "lastOpenFiles": [
-    "пар.md",
     "Замена рабских таблов от мориарти.md",
+    "пар.md",
     "2026-03-18.md",
     "Untitled",
     "README.md"
