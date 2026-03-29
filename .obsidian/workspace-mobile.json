@@ -90,9 +90,37 @@
               "icon": "lucide-file",
               "title": "2026-03-28"
             }
+          },
+          {
+            "id": "4cd30e0b9e2f62c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Жизнь мечты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Жизнь мечты"
+            }
+          },
+          {
+            "id": "313d47f47bcbabee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Жизнь мечты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Жизнь мечты"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -183,7 +211,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03-23.md",
+            "file": "Жизнь мечты.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -240,8 +268,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55354b37aea20084",
+  "active": "313d47f47bcbabee",
   "lastOpenFiles": [
+    "День мечты.md",
+    "Жизнь мечты.md",
     "2026-03-28.md",
     "Фразочки.md",
     "03-23.md",
