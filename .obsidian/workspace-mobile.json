@@ -111,16 +111,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Жизнь мечты.md",
+                "file": "2026-03-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Жизнь мечты"
+              "title": "2026-03-23"
+            }
+          },
+          {
+            "id": "09579849b8a4a3a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eng workshop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eng workshop"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -211,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Жизнь мечты.md",
+            "file": "Eng workshop.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -268,18 +282,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "313d47f47bcbabee",
+  "active": "09579849b8a4a3a7",
   "lastOpenFiles": [
-    "пар.md",
-    "Жизнь мечты.md",
-    "День мечты.md",
-    "2026-03-28.md",
-    "Фразочки.md",
     "03-23.md",
-    "2026-03-23.md",
-    "2026-03-18.md",
-    "/2026-03-23.md",
     "28-02-26.md",
+    "2026-03-18.md",
+    "2026-03-23.md",
+    "Eng workshop.md",
+    "2026-03-28.md",
+    "Жизнь мечты.md",
+    "пар.md",
+    "День мечты.md",
+    "Фразочки.md",
+    "/2026-03-23.md",
     "README.md",
     "Замена рабских таблов от мориарти.md",
     "Untitled"
