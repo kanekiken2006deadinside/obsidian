@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng workshop.md",
+                "file": "ооп.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eng workshop"
+              "title": "ооп"
             }
           }
         ],
@@ -312,11 +312,13 @@
   },
   "active": "20614f041a3e80af",
   "lastOpenFiles": [
+    "Eng workshop.md",
+    "ооп.md",
+    "/ооп.md",
     "Без названия.md",
     "/Без названия.md",
     "Нравится.md",
     "Вафли.md",
-    "Eng workshop.md",
     "03-23.md",
     "28-02-26.md",
     "2026-03-18.md",
