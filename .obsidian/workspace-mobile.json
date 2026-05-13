@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -338,12 +338,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95232c5e01f998d9",
+  "active": "20614f041a3e80af",
   "lastOpenFiles": [
     "👀.md",
+    "/ооп.md",
     "Офп 6.md",
     "ооп.md",
-    "/ооп.md",
     "Eng workshop.md",
     "Без названия.md",
     "/Без названия.md",
